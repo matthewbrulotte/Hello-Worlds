@@ -1,4 +1,4 @@
-#single line comments start with a hash
+#comments start with a hash
 
 
 print ("Hello, Worlds!!!")
